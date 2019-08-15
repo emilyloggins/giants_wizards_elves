@@ -1,0 +1,11 @@
+/Users/emilyloggins/workspace/c-sharp-exercises/rock-paper-scissors/obj/Debug/netcoreapp2.2/rock-paper-scissors.csprojAssemblyReference.cache
+/Users/emilyloggins/workspace/c-sharp-exercises/rock-paper-scissors/obj/Debug/netcoreapp2.2/rock-paper-scissors.csproj.CoreCompileInputs.cache
+/Users/emilyloggins/workspace/c-sharp-exercises/rock-paper-scissors/obj/Debug/netcoreapp2.2/rock-paper-scissors.AssemblyInfoInputs.cache
+/Users/emilyloggins/workspace/c-sharp-exercises/rock-paper-scissors/obj/Debug/netcoreapp2.2/rock-paper-scissors.AssemblyInfo.cs
+/Users/emilyloggins/workspace/c-sharp-exercises/rock-paper-scissors/bin/Debug/netcoreapp2.2/rock-paper-scissors.deps.json
+/Users/emilyloggins/workspace/c-sharp-exercises/rock-paper-scissors/bin/Debug/netcoreapp2.2/rock-paper-scissors.runtimeconfig.json
+/Users/emilyloggins/workspace/c-sharp-exercises/rock-paper-scissors/bin/Debug/netcoreapp2.2/rock-paper-scissors.runtimeconfig.dev.json
+/Users/emilyloggins/workspace/c-sharp-exercises/rock-paper-scissors/bin/Debug/netcoreapp2.2/rock-paper-scissors.dll
+/Users/emilyloggins/workspace/c-sharp-exercises/rock-paper-scissors/bin/Debug/netcoreapp2.2/rock-paper-scissors.pdb
+/Users/emilyloggins/workspace/c-sharp-exercises/rock-paper-scissors/obj/Debug/netcoreapp2.2/rock-paper-scissors.dll
+/Users/emilyloggins/workspace/c-sharp-exercises/rock-paper-scissors/obj/Debug/netcoreapp2.2/rock-paper-scissors.pdb
